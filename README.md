@@ -28,6 +28,12 @@ Lab 3 - Calculates Diamater, Surface and volume of a radius
 
 ![image](https://github.com/user-attachments/assets/ae1cd360-2b27-4330-9798-7dfc8387226e)
 
+![image](https://github.com/user-attachments/assets/9d0d2b79-fd38-4470-ba92-ff70f847f7eb)
+![image](https://github.com/user-attachments/assets/74bab6b6-0f0b-407d-935a-bf2d117d297f)
+![image](https://github.com/user-attachments/assets/1dd023c6-08c6-442b-90cb-abb83ee26ea8)
+![image](https://github.com/user-attachments/assets/8cdb1d97-71c3-4974-b70c-c654da461f8c)
+
+
 
 
 
